@@ -1,10 +1,9 @@
+#include "random.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
-
-
-int main()
+int main(void) 
 {
 	int a;
 
@@ -18,4 +17,3 @@ int main()
 
 	return(0);
 }
-
